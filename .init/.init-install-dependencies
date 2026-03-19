@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/learning-dashboard-platform-334831-334846/language_learning_database"
+}
